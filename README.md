@@ -30,13 +30,4 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
- 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurluiz-hotmart&theme=radical"/>
 
-<a href="https://github.com/arthurluiz-hotmart">
- <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=arthurluiz-hotmart&show_icons=true&theme=radical&line_height=28&count_private=true&include_all_commits=true" alt="Rastrian @ Github stats"/>
-</a>
-
-<a href="https://github.com/arthurluiz-hotmart">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurluiz-hotmart&theme=radical&layout=compact&langs_count=10" />
-</a>
